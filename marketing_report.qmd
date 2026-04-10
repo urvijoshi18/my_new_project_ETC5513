@@ -45,9 +45,7 @@ Did higher marketing spend per customer lead to higher purchase amounts? This re
 
 ## Dataset Introduction
 
-The dataset records information from a personalised marketing campaign run over one quarter. Each row represents one customer and includes how much was spent marketing to them, how many times they visited the website, and how much they purchased. Customers are also grouped into three segments: Consumer, SMB, and Enterprise.
-
-The raw data had 150 observations and 7 variables. Two cleaning steps were applied. First, 18 rows where purchase_amount was missing were removed, as purchase amount is the key variable being studied. Second, the notes column was dropped because it was empty for more than half the customers and was not relevant to the research question. The final cleaned dataset has `r nrow(campaign_data)` observations.
+The dataset records customer-level data from a quarter-long personalised marketing campaign, capturing marketing spend, website visits, purchase amounts, and customer segment. To clean the data, 18 rows with missing purchase amounts were removed and the notes column was dropped as it was mostly empty. The final cleaned dataset contains r nrow(campaign_data) observations.
 
 ### Dataset Description
 
