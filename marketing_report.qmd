@@ -37,7 +37,7 @@ campaign_data <- campaign_data |>
 
 ## Introduction
 
-Online retailers use personalised marketing campaigns to encourage customers to spend more. In this campaign, different amounts were spent on individual customers through ads, emails, and coupons. Understanding whether spending more on a customer leads to higher purchases is important for making smart budgeting decisions. This report investigates that relationship using data from one quarter of this campaign.
+Personalised marketing has become a key strategy for online retailers looking to drive customer engagement and increase sales. By tailoring the amount spent on each customer through advertisements, emails, and coupons, businesses aim to maximise the return on their marketing investment. However, it is not always clear whether spending more on individual customers actually leads to higher purchase amounts. This report analyses customer-level data from a quarter-long personalised marketing campaign to investigate whether higher marketing spend is associated with greater purchase value.
 
 ## Research Question
 
