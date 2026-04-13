@@ -1,0 +1,33 @@
+---
+title: "Appendix: Declaration of AI Use"
+author: "Urvi Joshi"
+date: today
+format:
+  html:
+    theme: cosmo
+    toc: true
+  pdf:
+    toc: true
+---
+
+## Declaration of AI Use
+
+In completing this assignment, I used Claude (Anthropic) as a generative AI tool in the following ways:
+
+**Debugging and error fixing:** I used Claude to help identify and fix errors encountered during the assignment, such as issues with file paths and CSV naming.
+
+**Understanding R code:** I used Claude to help me understand what certain functions and terms do in R, such as `is.na()`, `filter()`, `select()`, and ggplot2 options.
+
+**Writing assistance:** I used Claude to help improve the writing in certain sections of the report, such as the introduction and dataset introduction.
+
+All final decisions about the content and structure of the report were my own.
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+
+![Screenshot 2](screenshots/screenshot2.png)
+
+![Screenshot 3](screenshots/screenshot3.png)
+
+![Screenshot 4](screenshots/screenshot4.png)
